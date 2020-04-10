@@ -1,6 +1,6 @@
 # Socket_Programming
-Socket을 이용해 TCP, UDP 로 서버와 클라이언트 연결
-JAVA socket API 사용
+Socket을 이용해 TCP, UDP 로 서버와 클라이언트 연결    
+JAVA socket API 사용    
 데이터 통신 수업 때 배운 내용 활용
 
 # Socket
