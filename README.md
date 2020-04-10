@@ -8,13 +8,13 @@ JAVA socket API 사용
 - 특정 포트 번호와 연결되어 있음 
 
 # TCP vs UDP
-TCP
+**TCP**
 - 연결형 통신
 - 높은 신뢰성
 - UDP보다 속도 느림
 - 3-way handshaking 으로 목적지 수신지 확실히함
 
-UDP
+**UDP**
 - 비연결 통신
 - 낮은 신뢰성
 - TCP보다 속도 빠름
